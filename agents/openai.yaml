@@ -1,0 +1,4 @@
+interface:
+  display_name: "暨南大学论文格式自查与排版"
+  short_description: "内置学校模板、学院22项自查和补充格式规则，独立检查并统一论文排版"
+  default_prompt: "使用 $jnu-thesis-format-check 检查并统一这份论文的格式、样式、排版和参考文献格式，全文黑色字体，保留正文及数据。"
